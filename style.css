@@ -28,7 +28,7 @@ section{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(./images/greeting-card-bouquet-pink-tulips-pastel-pink-background-with-copy-space_917664-34017.avif) no-repeat ;
+    background:url(./greeting-card-bouquet-pink-tulips-pastel-pink-background-with-copy-space_917664-34017.avif) no-repeat ;
     background-size: cover;
    background-position:right;
 }
